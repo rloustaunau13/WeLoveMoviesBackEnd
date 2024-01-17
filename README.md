@@ -1,8 +1,4 @@
 <h1>WeLoveMovies Backend Application</h1>
-You've been hired as a backend developer at a new startup called WeLoveMovies. As another developer works on the design and frontend experience, you have been tasked with setting up a database and building out specific routes so that users can gain access to data about movies, theaters, and reviews.
-
-WeLoveMovies home page in the browser.
-For detailed instructions on how to complete this project, consult the Instructions document in the Qualified assessment interface.
 
 Objectives
 This project is designed to test your ability to build complex servers and access data through a database. To succeed at this project, you'll need to demonstrate that you can do the following tasks:
